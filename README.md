@@ -1,4 +1,4 @@
-# For spektergmbh
+# A Simple Google Map
 
 A new Flutter application.
 
